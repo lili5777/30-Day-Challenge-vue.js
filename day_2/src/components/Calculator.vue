@@ -37,3 +37,7 @@ function trimTrailing(s) {
 }
 
 </script>
+
+<template>
+  
+</template>
